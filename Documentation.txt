@@ -1,0 +1,14 @@
+Need to create metadata from annonations
+
+it expects data in .csv format
+
+Loading Data into Unfold
+Unfold is generally agnostic to how you load your data. 
+
+Matrix (channel x time) or 3D-Array(channel x time x epochs) and an event-dataframe.
+
+
+
+Use this to configure any adding/removing packages issues with PyMNE
+https://github.com/cjdoris/CondaPkg.jl
+
